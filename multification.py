@@ -7,3 +7,4 @@ print(h)
 def sub(n,m):
     z=n-m
     return z
+raise 
